@@ -1,0 +1,10 @@
+{
+  "Script": [
+    {
+      "Image": "/images/script_2753915549-1686753684728.webp",
+      "Name": "MeMayBeo Hub",
+      "GameName": "Blox Fruits",
+      "Script": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/Blox-Fruits-MeMayBeo-Hub-11285\"))()"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+Hello! 
+
+If you are confused on how to get started with exploiting, or how to execute scripts, 
+please watch this video: https://www.youtube.com/watch?v=0OKDV2HeYwc
+
+(Even though it's with the old version of Vega X, the tutorial still mostly works)
+
+If you need any further help, go to www.vegax.gg and join my discord support server!
+
+
+
+
+*IMPORTANT!*
+
+The autoexecute, workspace, and scripts folders will appear once you open the executor.
+
+
+If you want to add your own scripts to the vega x menu, make a notepad file and drop it into the "ADD_SCRIPTS_HERE" Folder!

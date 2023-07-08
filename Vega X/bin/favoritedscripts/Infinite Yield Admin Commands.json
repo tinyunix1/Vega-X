@@ -1,0 +1,10 @@
+{
+  "Script": [
+    {
+      "Image": "/images/script_5260413-1656824920205.jpg",
+      "Name": "Infinite Yield Admin Commands",
+      "GameName": "Universal Script ",
+      "Script": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/Universal-Script-Infinite-Yield-Admin-Commands-Script-3789\"))()"
+    }
+  ]
+}

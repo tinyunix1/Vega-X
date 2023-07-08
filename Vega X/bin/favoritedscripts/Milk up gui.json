@@ -1,0 +1,10 @@
+{
+  "Script": [
+    {
+      "Image": "/images/script_6284583030-1680329254605.webp",
+      "Name": "Milk up gui",
+      "GameName": "[QUESTS] Pet Simulator X! ",
+      "Script": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/QUESTS-Pet-Simulator-X!-Milk-up-gui-10761\"))()"
+    }
+  ]
+}
